@@ -1,28 +1,32 @@
-# UXUY Connect 
+# 🔗 UXUY Connect 
 
 **UXUY Wallet** transforms dApps into mini-apps within Telegram, integrating blockchain tech with social platforms. It simplifies user interactions, improves conversion.
 
-## Features
+## 💡 Features
 
 - **Telegram Mini-Apps**: Run dApps inside Telegram.
 - **Cross-chain Support**: BNB Chain and other EVM chains.
 - **Token Economy**: Regulate interactions with tokens.
 
-## Mini App 
+## 📱 Mini App 
 [![Telegram](https://img.shields.io/badge/@UXUY_Telegram_mini_app-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UXUYbot) 
 
-## Developer Resources
+## 🧑‍💻 Developer Resources
 ### Docs
 [![Docs](https://img.shields.io/badge/Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://docs.uxuy.com/uxuy-connect/quickstart/)
 
-### GitHub Disscussions
+#### 💻 SDK
+[![UXUY Connect SDK](https://img.shields.io/badge/UXUY_Connect_SDK-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uxuyconnect/connect-sdk)
+
+
+### 🗣️ GitHub Disscussions
 [![Github Disscussions](https://img.shields.io/badge/Github_Disscussions-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/uxuyconnect/discussions)
 
-### Community
+### 🫧 Community
 [![Telegram](https://img.shields.io/badge/@Developer_Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/uxuyconnect)
 
 
-## Bots Integrated UXUY Connect SDK
+## 🤖 Bots Integrated UXUY Connect SDK
 
 [Uniswap](https://uiswap-tg.pages.dev/#/swap)  
 [Pancakeswap](https://upancakeswap.pages.dev/)  
